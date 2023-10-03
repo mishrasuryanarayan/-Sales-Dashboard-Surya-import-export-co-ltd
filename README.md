@@ -1,4 +1,4 @@
-The project is based on Ecommerce sales insights from the Sales Dashboard. Surya import & export co. ltd.
+The project is based on Ecommerce sales insights from the Sales Dashboard of Surya import & export co. ltd. Company
 
 Objective - As a data analyst, I collaborated with the owner of the Sales Dashboard.Surya import & export co. ltd  to create a comprehensive dashboard to track and analyze their online sales across India. The dashboard provides valuable insights and visualizations to enhance decision-making and improve sales strategies.
 
